@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+using temario4.Models;
 namespace temario4.Models
 {
     public class TemaPrincipal
@@ -7,7 +9,7 @@ namespace temario4.Models
 
         public string Nombre { get; set; }
 
-        public List<Menus> SubMenus { get; set; }
+        public List<Menu> SubMenus { get; set; }
 
     }
 }
