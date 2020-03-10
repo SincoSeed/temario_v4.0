@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\cm\\bagoffice2\\TemarioHub\\Versiones\\Temario\\temario4\\temario4.appconsola\\temario4.appconsola.csproj": {}
+  },
+  "projects": {
+    "D:\\cm\\bagoffice2\\TemarioHub\\Versiones\\Temario\\temario4\\temario4.appconsola\\temario4.appconsola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\cm\\bagoffice2\\TemarioHub\\Versiones\\Temario\\temario4\\temario4.appconsola\\temario4.appconsola.csproj",
+        "projectName": "temario4.appconsola",
+        "projectPath": "D:\\cm\\bagoffice2\\TemarioHub\\Versiones\\Temario\\temario4\\temario4.appconsola\\temario4.appconsola.csproj",
+        "packagesPath": "C:\\Users\\mario.rodriguez\\.nuget\\packages\\",
+        "outputPath": "D:\\cm\\bagoffice2\\TemarioHub\\Versiones\\Temario\\temario4\\temario4.appconsola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mario.rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
